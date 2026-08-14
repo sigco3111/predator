@@ -4,9 +4,9 @@
 
 이 프로젝트는 웹 브라우저에서 실행되는 간단하지만 중독성 있는 아케이드 게임입니다. 플레이어는 자신의 개체를 조종하여 다른 작은 개체들을 흡수하며 질량을 늘려나갑니다. 하지만 자신보다 큰 개체나 특수한 위험 요소와 충돌하면 게임이 종료되거나 불이익을 받게 됩니다.
 
-실행주소1 : https://predator-rho.vercel.app/
+라이브 데모 : https://sigco3111.github.io/predator/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/predator/)
 
 ---
 
